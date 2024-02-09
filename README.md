@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, Everyone UNIQUE ADHIKARI here!</h1>
 <h3 align="center">A passionate Data Analyst & Web Developer from Nepal.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coffee-and-debugging&label=Profile%20views&color=0e75b6&style=flat" alt="coffee-and-debugging" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coffee-and-debugging" alt="coffee-and-debugging" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tweets_on_bits" target="blank"><img src="https://img.shields.io/twitter/follow/tweets_on_bits?logo=twitter&style=for-the-badge" alt="tweets_on_bits" /></a> </p>
+<a href="https://twitter.com/tweets_on_bits" target="blank"><img src="https://img.shields.io/twitter/follow/tweets_on_bits?logo=twitter&style=for-the-badge" alt="tweets_on_bits" /></a> </p>
 
 - 🔭 I’m currently working on **web development & mobile development.**
 
