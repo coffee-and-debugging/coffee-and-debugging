@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **web development & mobile development.**
 
-- 🌱 I’m currently learning **OpenGL, Machine learning, Deep learning, UI/UX.**
+- 🌱 I’m currently learning **Cybersecurity, OpenGL, Machine learning, Deep learning, UI/UX.**
 
 - 👯 I’m looking to collaborate on **data science.**
 
