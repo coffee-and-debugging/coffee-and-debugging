@@ -1,12 +1,24 @@
-<h1 align="center">Hi 👋, I'm UNIQUE ADHIKARI</h1>
-<h3 align="center">A passionate Data Analyst & Web Developer from Bharatpur,Nepal.</h3>
+<h1 align="center">Hi 👋, Everyone UNIQUE ADHIKARI here!</h1>
+<h3 align="center">A passionate Data Analyst & Web Developer from Nepal.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coffee-and-debugging&label=Profile%20views&color=0e75b6&style=flat" alt="coffee-and-debugging" /> </p>
 
-- 🔭 I’m currently working on **Data Analysis**
+- 🔭 I’m currently working on **Crafting Data-driven Insights, Innovative Web Experiences, and Efficient C Solutions – Currently Engaged in Exciting Projects!**
 
-- 👯 I’m looking to collaborate on **Data field**
+- 🌱 I’m currently learning **OpenGL**
+
+- 👯 I’m looking to collaborate on **Open to Collaborations: Let's Build Something Amazing Together! Exploring Opportunities in Data Analysis, Web Development, and C Programming.**
+
+- 🤝 I’m looking for help with **Seeking Assistance: If you're passionate about Data Analysis, Web Development, or C Programming, let's join forces and tackle challenges together!**
+
+- 📝 I regularly write articles on [uniqueadhikari.blogspot.com](uniqueadhikari.blogspot.com)
+
+- 💬 Ask me about **React, HTML, CSS, Pandas, Numpy, Matplotlib.**
+
+- 📫 How to reach me **adhikariunique65@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
