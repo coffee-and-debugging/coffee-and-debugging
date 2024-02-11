@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Everyone UNIQUE ADHIKARI here!</h1>
 <h3 align="center">A passionate Data Analyst & Web Developer from Nepal.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" style="border-radius: 15px;">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" style="border-radius: 50%;">
 
 <a href="https://twitter.com/tweets_on_bits" target="blank"><img src="https://img.shields.io/twitter/follow/tweets_on_bits?logo=twitter&style=for-the-badge" alt="tweets_on_bits" /></a> </p>
 
