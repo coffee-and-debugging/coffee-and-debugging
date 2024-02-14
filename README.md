@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity, OpenGL, Machine learning, Deep learning, UI/UX.**
 
-- 👯 I’m looking to collaborate on **data science.**
+- 👯 I’m looking to collaborate on **data science & ML projects.**
 
 - 🤝 I’m looking for help with **seeking assistance, if you're passionate about Data Analysis, Web Development. let's tackle challenges together!**
 
