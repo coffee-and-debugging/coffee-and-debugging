@@ -7,7 +7,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" style="border-radius: 15px;">
 
- </p>
+ </p &nbsp;>
+ 
 
 - 🔭 I’m currently working on **web development & mobile development.**
 
