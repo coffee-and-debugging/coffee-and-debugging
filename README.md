@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, Everyone UNIQUE ADHIKARI here!</h1>
 <h3 align="center">A passionate Data Analyst & Web Developer from Nepal.</h3>
 
-<img align="center" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5616AQE2PLRgKP361A/profile-displaybackgroundimage-shrink_350_1400/0/1707303603170?e=1713398400&v=beta&t=MAu6j9-tJe3_6c_R1EfqzD4K0nn8Rv0_aH_DmECTjcc" style="border-radius: 15px;">
+<img align="center" alt="banner" width="400" src="https://media.licdn.com/dms/image/D5616AQE2PLRgKP361A/profile-displaybackgroundimage-shrink_350_1400/0/1707303603170?e=1713398400&v=beta&t=MAu6j9-tJe3_6c_R1EfqzD4K0nn8Rv0_aH_DmECTjcc" style="border-radius: 15px;">
+
+<a href="https://twitter.com/tweets_on_bits" target="blank"><img src="https://img.shields.io/twitter/follow/tweets_on_bits?logo=twitter&style=for-the-badge" alt="tweets_on_bits" /></a>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" style="border-radius: 15px;">
 
-
-<a href="https://twitter.com/tweets_on_bits" target="blank"><img src="https://img.shields.io/twitter/follow/tweets_on_bits?logo=twitter&style=for-the-badge" alt="tweets_on_bits" /></a> </p>
+ </p>
 
 - 🔭 I’m currently working on **web development & mobile development.**
 
