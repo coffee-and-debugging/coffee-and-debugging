@@ -10,9 +10,9 @@
  </p>
  
 
-- 🔭 I’m currently working on **web development & mobile development.**
+- 🔭 I’m currently working on **Data field & Development**
 
-- 🌱 I’m currently learning **Cybersecurity, OpenGL, Machine learning, Deep learning, UI/UX.**
+- 🌱 I’m currently learning **Cybersecurity, O3d, Machine learning, Deep learning**
 
 - 👯 I’m looking to collaborate on **data science & ML projects.**
 
