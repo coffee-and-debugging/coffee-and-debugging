@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tweets_on_bits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tweets_on_bits" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/uniqueadhikari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/uniqueadhikari/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/uniqueadhikari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/uniqueadhikari/" height="30" width="40" /></a>
 <a href="https://fb.com/uniqueadhikari.007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uniqueadhikari.007" height="30" width="40" /></a>
 <a href="https://instagram.com/unik.adhikarii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unik.adhikarii/" height="30" width="40" /></a>
 </p>
